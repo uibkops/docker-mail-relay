@@ -1,6 +1,6 @@
 # Using LTS ubuntu
 FROM ubuntu:trusty
-MAINTAINER Uri Savelchev <alterrebe@gmail.com>
+MAINTAINER Gregor Schwab <gregor.schwab@uibk.ac.at>
 
 # Ignore APT warnings about not having a TTY
 ENV DEBIAN_FRONTEND noninteractive
